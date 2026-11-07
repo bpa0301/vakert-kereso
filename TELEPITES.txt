@@ -1,0 +1,9 @@
+vakert Kódkereső – iPhone telepítés
+
+1. A fájlokat HTTPS-en elérhető webhelyre kell feltölteni (például GitHub Pages).
+2. iPhone-on nyisd meg a webhely címét a SAFARI böngészőben.
+3. Koppints a Megosztás ikonra.
+4. Válaszd a „Főképernyőhöz adás” lehetőséget.
+5. Ha megjelenik, kapcsold be a „Megnyitás webappként” opciót, majd koppints a Hozzáadás gombra.
+
+Ez egy telepíthető webalkalmazás (PWA), nem App Store-os natív alkalmazás. Az első betöltéshez internet szükséges; utána a gyorsítótárazott kereső offline is működik.
